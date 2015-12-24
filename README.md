@@ -22,7 +22,7 @@ This repository hosts this new slideshow and more.
 - [Lawrence Lessig: Laws that choke creativity, TED2007](https://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity)
 - [Printable handouts](https://creativecommons.org/about/downloads#Physical%20Media)
 
-## Creadits
+## Credits
 
 Our team: Mehran Mansoori, Amin Masoumi, Mohsen Dastjerdi Zade.
 
