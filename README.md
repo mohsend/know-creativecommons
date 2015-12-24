@@ -12,6 +12,8 @@ This repository hosts this new slideshow and more.
 - [CreativeCommons.org](https://creativecommons.org/)
 - [Creative Commons Infographic: Licenses Explained](http://www.dontwasteyourtime.co.uk/elearning/creative-commons-infographic-licenses-explained/) - [The Infographic](http://foter.com/blog/files/2012/11/Foter.com_infographic_CC.jpg) ([mirrored here](materials/infographic.jpg))
 - [Creative Commons Licenses: What You Need to Know as a Creator and User](https://library.osu.edu/blogs/copyright/2015/06/24/creative-commons-licenses-what-you-need-to-know-as-a-creator-and-user/)
+- [Find CC licensed content on the internet](https://search.creativecommons.org/)
+- [Choose a license for your content](https://creativecommons.org/choose/)
 
 
 ## For presenters and contributers
