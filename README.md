@@ -2,7 +2,7 @@
 
 ## A little back story
 Back in 2010 I prepared a MS Power point™ slideshow (when I was 17 and hyped about learning MS Office™) to explain what is CreativeCommons and how it works.  
-Five years later there was a chance to give a presentation in front of a class; which I seized. I then managed to convince our team to take my old slideshow and make a good ol' ten-minute-long presentation out of it for the course.  
+Five years later there was a chance to give a presentation in front of a class; which I seized. I then managed to convince our team to take my old slideshow and make a ten-minute-long presentation out of it for the course.  
 This repository hosts this new slideshow and more.  
 
 ## For those who want to know more about CC
@@ -26,7 +26,7 @@ This repository hosts this new slideshow and more.
 
 Our team: Mehran Mansoori, Amin Masoumi, Mohsen Dastjerdi Zade.
 
-Special thanks to our lecturer Dr. Navid Hashemi Taba.
+Special thanks to our lecturer; Dr. Navid Hashemi Taba.
 
 ---
 
