@@ -18,7 +18,7 @@ This repository hosts this new slideshow and more.
 
 ## For presenters and contributers
 
-- The Slideshow: [OpenDocument Presentation](know-cc-slideshow.odp) - PDF
+- The Slideshow: [OpenDocument Presentation](know-cc-slideshow.odp) - [PDF](https://github.com/mohsend/know-creativecommons/releases/download/v1.0/know-cc-slideshow.pdf)
 - [Lawrence Lessig: Laws that choke creativity, TED2007](https://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity)
 - [Printable handouts](https://creativecommons.org/about/downloads#Physical%20Media)
 
